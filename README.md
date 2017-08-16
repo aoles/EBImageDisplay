@@ -1,2 +1,5 @@
-# EBImageDisplay
-EBImage display widget demo
+# Usage
+
+```r
+shiny::runGitHub("aoles/EBImageDisplay")
+```
